@@ -1,0 +1,46 @@
+body {
+    background-color: #87bee4;
+    padding: 2%;
+}
+
+h1 {
+    border-bottom: 3px solid #888888;
+    font-family: sans-serif;
+    font-size: 34px;
+    margin: 0 0 20px 0;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+
+}
+
+p.instructions {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div {
+    background-color: ##d8ba52;
+    border: 3px solid #888888;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+}
+
+div.data {
+    margin-right: 2%;
+    width: 25%
+}
+
+div.story {
+    width: 73%;
+}
